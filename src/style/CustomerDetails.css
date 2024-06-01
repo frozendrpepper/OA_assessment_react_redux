@@ -1,0 +1,46 @@
+.customer-details-container {
+    
+    height: 100%;
+    background-color: white;
+    border-radius: 0.5em;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.customer-logo {
+    width: 70%;
+    margin: 30px auto;
+}
+
+.customer-brand-container {
+    margin-bottom: 10px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.customer-subtitle-container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.customer-tag-container {
+    display: felx;
+    justify-content: space-between;
+}
+
+.tag-box {
+    border-radius: .5em;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    border:1px solid rgba(149, 157, 165, 0.2);
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+hr {
+    margin-top: 15px;
+    border-color: whitesmoke;
+    color: whitesmoke;
+    border-width: 1px;
+}
